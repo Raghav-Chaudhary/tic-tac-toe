@@ -1,0 +1,18 @@
+.note-div {
+  width: 80%;
+  margin: 40px;
+}
+.note-div textarea {
+  height: 200px;
+  width: 100%;
+}
+
+.note-div button {
+  width: 50%;
+  align-self: center;
+}
+
+.open-tab {
+  width: 30%;
+  margin: 0 0 0 0;
+}
